@@ -51,7 +51,7 @@ const filePath = './channels.json'
 var whitelist = require("./channels.json");
 
 setInterval(() => {
-  http.get(`http://decorous-ten-bat.glitch.me/`);
+  //http.get(`<your glitch url>`);
 }, 280000); //280000
 
 client.once('ready', () => {
