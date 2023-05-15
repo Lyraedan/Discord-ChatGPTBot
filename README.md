@@ -14,6 +14,23 @@ Built By Lyraedan using Glitch (https://glitch.com/)
 
  
  - Run the bot
+ 
+ <b>Switching Modes</b>
+ 
+ The bot has 2 modes.
+ 
+ 0 - Cleverbot,
+ 
+ 1 - ChatGPT
+ 
+ Using Cleverbot uses the brains behind the Cleverbot AI (https://www.cleverbot.com/)
+ 
+ Using ChatGPT (default) uses the OpenAI brains of ChatGPT 3.5 turbo
+ 
+ I left Cleverbot functionality in there for fun
+ 
+ Modes can be switched by starting your message with "Switch mode <modeID>" (Not case sensitive)
+
  <b>Talking to the bot</b>
  - Send a message to the channel you configured the bot too and it'll reply in a thread of the same name and it'll respond to you there
 ![image](https://github.com/Lyraedan/Discord-ChatGPTBot/assets/61066562/78420ee3-86e3-4807-a084-6626e6791124)
