@@ -1,0 +1,7 @@
+{
+  "mode": 1,
+  "historyLimit": 10,
+  "discordToken": "<Your bot token>",
+  "openaiApiKey": "<Your OpenAi Api Key>",
+  "botId": "<Your bot ID>"
+}

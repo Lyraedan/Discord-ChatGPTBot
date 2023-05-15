@@ -1,0 +1,6 @@
+[
+  {
+    "guild": "<Your server ID>",
+    "channelId": "<The initial channel ID you wish to use to interact with the bot>"
+  }
+]
