@@ -6,7 +6,10 @@ A bot that has ChatGPT, Cleverbot functionality and the ability to be locked to 
 Built By Lyraedan using Glitch (https://glitch.com/)
 
 <b>How to use</b>
-- Modify config.json and set your bots discord token, openAI Api key and assign the bots ID, (You can move these to process.env if you wish)
+- Modify config.json and set your bots discord token, openAI Api key and assign the bots ID
+
+  (You can move these to process.env if you wish, I recommend that)
+
 - Modify the channels.json, assign your servers ID and the channel ID that is used to interact with the bot.
   (Thread channels are automatically managed by the bot)
   
