@@ -7,6 +7,9 @@ Built By Lyraedan using Glitch (https://glitch.com/)
 - Modify config.json and set your bots discord token, openAI Api key and assign the bots ID,
 - Modify the channels.json, assign your servers ID and the channel ID that is used to interact with the bot.
   (Thread channels are automatically managed by the bot)
+  
+  ![image](https://github.com/Lyraedan/Discord-ChatGPTBot/assets/61066562/b22d746d-4b15-4391-a431-5b52addfa63e)
+
  
  - Run the bot
  <b>Talking to the bot</b>
