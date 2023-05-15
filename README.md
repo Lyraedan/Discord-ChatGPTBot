@@ -25,7 +25,7 @@ Built By Lyraedan using Glitch (https://glitch.com/)
  
  Using Cleverbot uses the brains behind the Cleverbot AI (https://www.cleverbot.com/)
  
- Using ChatGPT (default) uses the OpenAI brains of ChatGPT 3.5 turbo
+ Using ChatGPT (default) uses the OpenAI brains of ChatGPT 3.5 turbo (https://openai.com/)
  
  I left Cleverbot functionality in there for fun
  
